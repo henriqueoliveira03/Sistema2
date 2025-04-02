@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jeruel.Teste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7889be829f199c1cac19e99a8e79800b2b2409ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9958b254e295299a3f2c22edc8a86c72e873c719")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jeruel.Teste")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jeruel.Teste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oo1xqZ80dIw=",
+  "dgSpecHash": "3ypql8f6KVo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizh\\OneDrive\\Documentos\\DH Solutions\\SistemaJeruel\\Jeruel\\ClassLibrary1\\Jeruel.Teste.csproj",
+  "projectFilePath": "C:\\Users\\luizh\\Source\\Repos\\Sistema2\\ClassLibrary1\\Jeruel.Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizh\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.12\\microsoft.aspnetcore.authorization.8.0.12.nupkg.sha512",
     "C:\\Users\\luizh\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.12\\microsoft.aspnetcore.components.8.0.12.nupkg.sha512",

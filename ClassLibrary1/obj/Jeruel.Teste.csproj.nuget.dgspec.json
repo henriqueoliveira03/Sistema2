@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizh\\OneDrive\\Documentos\\DH Solutions\\SistemaJeruel\\Jeruel\\ClassLibrary1\\Jeruel.Teste.csproj": {}
+    "C:\\Users\\luizh\\Source\\Repos\\Sistema2\\ClassLibrary1\\Jeruel.Teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizh\\OneDrive\\Documentos\\DH Solutions\\SistemaJeruel\\Jeruel\\ClassLibrary1\\Jeruel.Teste.csproj": {
+    "C:\\Users\\luizh\\Source\\Repos\\Sistema2\\ClassLibrary1\\Jeruel.Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizh\\OneDrive\\Documentos\\DH Solutions\\SistemaJeruel\\Jeruel\\ClassLibrary1\\Jeruel.Teste.csproj",
+        "projectUniqueName": "C:\\Users\\luizh\\Source\\Repos\\Sistema2\\ClassLibrary1\\Jeruel.Teste.csproj",
         "projectName": "Jeruel.Teste",
-        "projectPath": "C:\\Users\\luizh\\OneDrive\\Documentos\\DH Solutions\\SistemaJeruel\\Jeruel\\ClassLibrary1\\Jeruel.Teste.csproj",
+        "projectPath": "C:\\Users\\luizh\\Source\\Repos\\Sistema2\\ClassLibrary1\\Jeruel.Teste.csproj",
         "packagesPath": "C:\\Users\\luizh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizh\\OneDrive\\Documentos\\DH Solutions\\SistemaJeruel\\Jeruel\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\luizh\\Source\\Repos\\Sistema2\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
