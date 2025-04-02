@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\Jeruel.Blazor\\Jeruel.Blazor.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Jeruel.Function\\Jeruel.Function.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

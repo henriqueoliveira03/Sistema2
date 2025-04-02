@@ -1,0 +1,25 @@
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\bin\Debug\net8.0\Jeruel.Teste.deps.json
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\bin\Debug\net8.0\Jeruel.Teste.dll
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\bin\Debug\net8.0\Jeruel.Teste.pdb
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.AssemblyInfoInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.AssemblyInfo.cs
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.csproj.CoreCompileInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.dll
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\refint\Jeruel.Teste.dll
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.pdb
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\ref\Jeruel.Teste.dll
+C:\Users\luizh\OneDrive\Documentos\Jeruel.teste\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.csproj.AssemblyReference.cache
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\bin\Debug\net8.0\Jeruel.Teste.deps.json
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\bin\Debug\net8.0\Jeruel.Teste.dll
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\bin\Debug\net8.0\Jeruel.Teste.pdb
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.csproj.AssemblyReference.cache
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.AssemblyInfoInputs.cache
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.AssemblyInfo.cs
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.csproj.CoreCompileInputs.cache
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.sourcelink.json
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.dll
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\refint\Jeruel.Teste.dll
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\Jeruel.Teste.pdb
+C:\Users\luizh\OneDrive\Documentos\DH Solutions\SistemaJeruel\Jeruel\ClassLibrary1\obj\Debug\net8.0\ref\Jeruel.Teste.dll
